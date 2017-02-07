@@ -1,0 +1,6 @@
+*.psd
+*.log
+*.ini
+/node_modules
+/src/libs
+/template
